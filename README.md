@@ -1,9 +1,7 @@
-Trident
+Trident-js
 ===
-The API to Aquarium
+The Javascript API to Aquarium
 
-Node.js
----
 
 From within the js directory, run tests as follows:
 
